@@ -1,0 +1,24 @@
+body{
+    background-color:rgb(104, 110, 129);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p {
+    color: rgb(252, 252, 252);
+    background-color: rgb(104, 110, 129);
+    font-size: 1.2rem;
+}
+h1 {
+    font-family: Verdana, sans-serif;
+    color: rgb(252, 252, 252);
+    font-size: 1.7rem;
+     }
+
+
+     /*
+     
+              h1: Fonten Verdana storlek 1.7rem, färg valfri men tänk på att den ska passa ihop med de andra färgerna
+
+p: Fonten Verdana, storlek 1.2 rem, färg valfri men tänk på att den ska passa ihop med de andra färgerna
+     */
+     
